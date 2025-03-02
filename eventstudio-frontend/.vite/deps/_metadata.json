@@ -1,0 +1,142 @@
+{
+  "hash": "5533a3a9",
+  "configHash": "c2ddd5a6",
+  "lockfileHash": "3b75eff9",
+  "browserHash": "f88f7bb8",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "2185942c",
+      "needsInterop": true
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "6ab8b928",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "f9b59fc5",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "9fc4b4e1",
+      "needsInterop": true
+    },
+    "react-google-recaptcha-v3": {
+      "src": "../../node_modules/react-google-recaptcha-v3/dist/react-google-recaptcha-v3.esm.js",
+      "file": "react-google-recaptcha-v3.js",
+      "fileHash": "80f2d6f9",
+      "needsInterop": false
+    },
+    "react-hot-toast": {
+      "src": "../../node_modules/react-hot-toast/dist/index.mjs",
+      "file": "react-hot-toast.js",
+      "fileHash": "46befc55",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "a185280a",
+      "needsInterop": false
+    },
+    "@formatjs/intl-relativetimeformat/polyfill": {
+      "src": "../../node_modules/@formatjs/intl-relativetimeformat/polyfill.js",
+      "file": "@formatjs_intl-relativetimeformat_polyfill.js",
+      "fileHash": "c5833045",
+      "needsInterop": true
+    },
+    "@formatjs/intl-relativetimeformat/locale-data/en": {
+      "src": "../../node_modules/@formatjs/intl-relativetimeformat/locale-data/en.js",
+      "file": "@formatjs_intl-relativetimeformat_locale-data_en.js",
+      "fileHash": "30b88ec0",
+      "needsInterop": true
+    },
+    "@formatjs/intl-relativetimeformat/locale-data/de": {
+      "src": "../../node_modules/@formatjs/intl-relativetimeformat/locale-data/de.js",
+      "file": "@formatjs_intl-relativetimeformat_locale-data_de.js",
+      "fileHash": "2d286518",
+      "needsInterop": true
+    },
+    "@formatjs/intl-relativetimeformat/locale-data/es": {
+      "src": "../../node_modules/@formatjs/intl-relativetimeformat/locale-data/es.js",
+      "file": "@formatjs_intl-relativetimeformat_locale-data_es.js",
+      "fileHash": "e5695dbb",
+      "needsInterop": true
+    },
+    "@formatjs/intl-relativetimeformat/locale-data/fr": {
+      "src": "../../node_modules/@formatjs/intl-relativetimeformat/locale-data/fr.js",
+      "file": "@formatjs_intl-relativetimeformat_locale-data_fr.js",
+      "fileHash": "2f3f25b8",
+      "needsInterop": true
+    },
+    "@formatjs/intl-relativetimeformat/locale-data/ja": {
+      "src": "../../node_modules/@formatjs/intl-relativetimeformat/locale-data/ja.js",
+      "file": "@formatjs_intl-relativetimeformat_locale-data_ja.js",
+      "fileHash": "85de75fd",
+      "needsInterop": true
+    },
+    "@formatjs/intl-relativetimeformat/locale-data/zh": {
+      "src": "../../node_modules/@formatjs/intl-relativetimeformat/locale-data/zh.js",
+      "file": "@formatjs_intl-relativetimeformat_locale-data_zh.js",
+      "fileHash": "81e63b85",
+      "needsInterop": true
+    },
+    "react-intl": {
+      "src": "../../node_modules/react-intl/lib/index.js",
+      "file": "react-intl.js",
+      "fileHash": "cd4bbee6",
+      "needsInterop": false
+    },
+    "notistack": {
+      "src": "../../node_modules/notistack/notistack.esm.js",
+      "file": "notistack.js",
+      "fileHash": "8b359871",
+      "needsInterop": false
+    },
+    "react-query": {
+      "src": "../../node_modules/react-query/es/index.js",
+      "file": "react-query.js",
+      "fileHash": "a61f58fe",
+      "needsInterop": false
+    },
+    "react-helmet-async": {
+      "src": "../../node_modules/react-helmet-async/lib/index.esm.js",
+      "file": "react-helmet-async.js",
+      "fileHash": "ce9e68e7",
+      "needsInterop": false
+    },
+    "react-router": {
+      "src": "../../node_modules/react-router/dist/index.js",
+      "file": "react-router.js",
+      "fileHash": "24df782d",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-57RRUQPG": {
+      "file": "chunk-57RRUQPG.js"
+    },
+    "chunk-VJIWORUO": {
+      "file": "chunk-VJIWORUO.js"
+    },
+    "chunk-UHINIFCJ": {
+      "file": "chunk-UHINIFCJ.js"
+    },
+    "chunk-W4EHDCLL": {
+      "file": "chunk-W4EHDCLL.js"
+    },
+    "chunk-567PWQPE": {
+      "file": "chunk-567PWQPE.js"
+    },
+    "chunk-EWTE5DHJ": {
+      "file": "chunk-EWTE5DHJ.js"
+    }
+  }
+}
